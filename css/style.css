@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+
+/* normalize WTF */
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: #b86cc0;
+}
